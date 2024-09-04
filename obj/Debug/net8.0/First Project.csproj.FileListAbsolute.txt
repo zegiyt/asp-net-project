@@ -1,0 +1,30 @@
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\bin\Debug\net8.0\appsettings.json
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\bin\Debug\net8.0\First Project.staticwebassets.runtime.json
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\bin\Debug\net8.0\First Project.exe
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\bin\Debug\net8.0\First Project.deps.json
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\bin\Debug\net8.0\First Project.runtimeconfig.json
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\bin\Debug\net8.0\First Project.dll
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\bin\Debug\net8.0\First Project.pdb
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\First Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\First Project.AssemblyInfoInputs.cache
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\First Project.AssemblyInfo.cs
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\First Project.csproj.CoreCompileInputs.cache
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\First Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\First Project.RazorAssemblyInfo.cache
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\First Project.RazorAssemblyInfo.cs
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\staticwebassets\msbuild.First Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\staticwebassets\msbuild.build.First Project.props
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.First Project.props
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.First Project.props
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\scopedcss\bundle\First Project.styles.css
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\scopedcss\projectbundle\First Project.bundle.scp.css
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\First Project.dll
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\refint\First Project.dll
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\First Project.pdb
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\First Project.genruntimeconfig.cache
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\ref\First Project.dll
