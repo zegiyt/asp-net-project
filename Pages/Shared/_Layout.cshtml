@@ -4,25 +4,39 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - StackUP</title>
+    <title>@ViewData["Title"] - When You Get Stuck You Fucked Up</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/First_Project.styles.css" asp-append-version="true" />
+    @* favicon if the favicon was inside a sub folder add from the hfref="~/images/favicon"
+    (the images name may vary based on the name of the sub folder)*@
+    <link rel="icon" type="image/png" href="~/favicon1.png">
 </head>
 
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
+                @* THIS IS WHERE THE BRAND TITLE CAN BE CHANGE *@
                 <a class="navbar-brand" asp-area="" asp-page="/Index">StackUP</a>
+
+                @* SEARCH BAR WITH NO BUTTON SEARCH *@
+                <div class="d-flex justify-content-center flex-grow-1">
+                    <form class="d-flex w-50">
+                        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
+                    </form>
+                </div>
+                @* NAV TOGGLER WHEN IT GET SHRINKED *@
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
                     aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
+
+                @* MENU *@
                 <div class="navbar-collapse collapse d-sm-inline-flex">
-                    <ul class="navbar-nav ms-auto"> <!-- Use ms-auto here to push items to the right -->
+                    <ul class="navbar-nav ms-auto">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Index"> </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
