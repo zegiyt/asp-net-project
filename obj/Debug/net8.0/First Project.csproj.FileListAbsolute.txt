@@ -28,3 +28,4 @@ C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0
 C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\First Project.pdb
 C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\First Project.genruntimeconfig.cache
 C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\ref\First Project.dll
+C:\Users\jcnit\OneDrive\Documents\VsCode Projects\First Project\obj\Debug\net8.0\First Project.sourcelink.json
