@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\jcnit\\OneDrive\\Documents\\VsCode Projects\\First Project\\wwwroot\\favicon1.png",
+      "PackagePath": "staticwebassets\\favicon1.png"
+    },
+    {
       "Id": "C:\\Users\\jcnit\\OneDrive\\Documents\\VsCode Projects\\First Project\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

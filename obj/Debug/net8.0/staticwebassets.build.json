@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wHh5JhzTXT3JyYPAZ0oH47pBQp0AiK3PwxcwXLhYLgA=",
+  "Hash": "b620eThGncYGz9ZS0ZTGQArfRYRGO9md8qcfbGC8gL4=",
   "Source": "First Project",
   "BasePath": "_content/First Project",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\jcnit\\OneDrive\\Documents\\VsCode Projects\\First Project\\wwwroot\\favicon1.png",
+      "SourceId": "First Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jcnit\\OneDrive\\Documents\\VsCode Projects\\First Project\\wwwroot\\",
+      "BasePath": "_content/First Project",
+      "RelativePath": "favicon1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon1.png"
     },
     {
       "Identity": "C:\\Users\\jcnit\\OneDrive\\Documents\\VsCode Projects\\First Project\\wwwroot\\js\\site.js",

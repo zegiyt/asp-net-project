@@ -18,7 +18,10 @@
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
                 @* THIS IS WHERE THE BRAND TITLE CAN BE CHANGE *@
-                <a class="navbar-brand" asp-area="" asp-page="/Index">StackUP</a>
+                @* This also have the logo the " ~ " means wwwroot *@
+                <a class="navbar-brand" asp-area="" asp-page="/Index"><img src="~/favicon1.png" alt="Logo"
+                        style="height:34px; width:auto;" />
+                    StackUP</a>
 
                 @* SEARCH BAR WITH NO BUTTON SEARCH *@
                 <div class="d-flex justify-content-center flex-grow-1">
@@ -36,7 +39,7 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Index"> </a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
@@ -55,11 +58,38 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2024 - First_Project - <a asp-area="" asp-page="/Privacy">Privacy</a>
+    @* If you want © logo you can add &copy; in the first text *@
+    @* <footer class="border-top footer text-muted">
+    <div class="container">
+    StackUP Site design / © StackUP Exchange Inc; user contributions licensed under CC
+    BY-SA . rev 2024.9.4.14806 - <a asp-area="" asp-page="/Privacy">Privacy</a>
+    </div>
+    </footer> *@
+
+    @* ADVANCE FOOTER BLACK BACKGROUND *@
+
+    <footer class="footer bg-dark text-light py-4">
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <p class="mb-0">© 2024 StackUP Exchange Inc. All rights reserved.</p>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <a href="/Privacy" class="text-light">Privacy Policy</a>
+                    <span class="mx-2">|</span>
+                    <a href="/Terms" class="text-light">Terms of Service</a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <p class="small mb-0">User contributions licensed under <a
+                            href="https://creativecommons.org/licenses/by-sa/4.0/" class="text-light" target="_blank"
+                            rel="noopener noreferrer">CC BY-SA</a>.</p>
+                </div>
+            </div>
         </div>
     </footer>
+
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
